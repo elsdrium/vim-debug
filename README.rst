@@ -1,6 +1,7 @@
 This reposiotry is a modified version from https://github.com/jaredly/vim-debug
 
 =========================
+
 .. |vim-debug-logo| image:: https://raw.github.com/jabapyth/vim-debug/master/logo.png
 
 |vim-debug-logo| vim-debug
