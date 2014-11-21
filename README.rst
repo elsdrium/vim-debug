@@ -1,4 +1,5 @@
-This reposiotry is a modified version from https://github.com/jaredly/vim-debug
+This reposiotry is a modified version of https://github.com/jaredly/vim-debug
+And it DOES NOT support Python 3 yet.
 
 =========================
 
